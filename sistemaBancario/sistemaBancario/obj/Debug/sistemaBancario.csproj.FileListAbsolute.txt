@@ -1,0 +1,6 @@
+C:\Users\Ativ Book 4\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe.config
+C:\Users\Ativ Book 4\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe
+C:\Users\Ativ Book 4\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.pdb
+C:\Users\Ativ Book 4\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.csprojResolveAssemblyReference.cache
+C:\Users\Ativ Book 4\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.exe
+C:\Users\Ativ Book 4\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.pdb

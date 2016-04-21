@@ -43,8 +43,11 @@
   <ItemGroup>
     <Compile Include="AbstractInterestPerformance.cs" />
     <Compile Include="InterestCalculationStrategy\CalculateInterestByAmountStrategy.cs" />
-    <Compile Include="InterestCalculationStrategy\ICalculateInterestStrategy.cs" />
+    <Compile Include="InterestCalculationStrategy\CalculateInterestByTermStrategy.cs" />
+    <Compile Include="InterestCalculationStrategy\ICalculateInterestAmountStrategy.cs" />
+    <Compile Include="InterestCalculationStrategy\ICalculateInterestTermStrategy.cs" />
     <Compile Include="InterestPerformanceByAmount.cs" />
+    <Compile Include="InterestPerformanceByTerm.cs" />
     <Compile Include="InterestsUtils\AmountInterest.cs" />
     <Compile Include="InterestsUtils\CurrentAccountInterest.cs" />
     <Compile Include="InterestsUtils\TermInterest.cs" />

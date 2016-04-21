@@ -11,45 +11,34 @@ namespace Model
 {
     public class InterestPerformanceByAmount : AbstractInterestPerformance
     {
-        private ICalculateInterestStrategy _interestStrategy;
-        private AmountInterest _interest;
+        private ICalculateInterestAmountStrategy _interestStrategy;
+        private AmountInterest _interestTable;
 
         public InterestPerformanceByAmount()
         {
 
         }
 
-        public InterestPerformanceByAmount(AmountInterest pInterest, ICalculateInterestStrategy pInterestStrategy)
+        public InterestPerformanceByAmount(AmountInterest pInterest, ICalculateInterestAmountStrategy pInterestStrategy)
         {
             _interestStrategy = pInterestStrategy;
-            _interest = pInterest;
+            _interestTable = pInterest;
         }
 
-        public void setStrategy(ICalculateInterestStrategy pInterestStrategy)
+        public void setStrategy(ICalculateInterestAmountStrategy pInterestStrategy)
         {
             _interestStrategy = pInterestStrategy;
         }
 
-        public double geAnnualtInterest()
-        {
-            return _annualInterest;
-        }
-
-        public decimal getEarnedInterest()
-        {
-            return _interestEarned;
-        }
 
 
         public override decimal calculateBalance(decimal pAmount, int pTermInDays)
         {
-            _interest.Amount = pAmount;
-           InterestResult result = _interestStrategy.calculateInterest(pTermInDays, _interest);
-
-           _interestEarned = result.InterestEarned;
-           _annualInterest = result.AnnualInterest;
-
-           return result.FinalBalance;
+            _interestTable.Amount = pAmount;
+            InterestResult result = _interestStrategy.calculateInterest(pTermInDays, _interestTable);
+            _interestEarned = result.InterestEarned;
+            _annualInterest = result.AnnualInterest;
+            return result.FinalBalance;
             
         }
     }

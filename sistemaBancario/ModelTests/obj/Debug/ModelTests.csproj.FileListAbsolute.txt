@@ -1,0 +1,9 @@
+C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\ModelTests\bin\Debug\ModelTests.dll
+C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\ModelTests\bin\Debug\ModelTests.pdb
+C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\ModelTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\ModelTests\bin\Debug\Model.dll
+C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\ModelTests\bin\Debug\Model.pdb
+C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\ModelTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\ModelTests\obj\Debug\ModelTests.csprojResolveAssemblyReference.cache
+C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\ModelTests\obj\Debug\ModelTests.dll
+C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\ModelTests\obj\Debug\ModelTests.pdb

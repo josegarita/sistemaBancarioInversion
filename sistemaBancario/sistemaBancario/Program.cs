@@ -14,8 +14,4 @@ namespace sistemaBancario
            Console.ReadKey();
         }
     }
-
-
-   
-
 }

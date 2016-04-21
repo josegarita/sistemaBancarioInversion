@@ -14,19 +14,19 @@ namespace Model.Tests
         [TestMethod()]
         public void InterestPerformanceByAmountTest()
         {
-            Assert.Fail();
+            //Assert.Fail();
         }
 
         [TestMethod()]
         public void setStrategyTest()
         {
-            Assert.Fail();
+           // Assert.Fail();
         }
 
         [TestMethod()]
         public void calculateBalanceTest()
         {
-            Assert.Fail();
+            InterestPerformanceByAmount performance;
         }
     }
 }

@@ -11,6 +11,6 @@ namespace Model.InterestCalculationStrategy
 {
     public interface ICalculateInterestByAmountStrategy
     {
-        InterestResult calculateInterest(int pCantDias, AmountInterest interest);
+        InterestResult calculateInterest(decimal p, int pCantDias, AmountInterest interest);
     }
 }

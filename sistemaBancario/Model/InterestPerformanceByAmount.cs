@@ -25,9 +25,9 @@ namespace Model
             _interestStrategy = pInterestStrategy;
         }
 
-        public override decimal calculateBalance(int pTermInDays)
+        public override decimal calculateBalance(decimal pAmount, int pTermInDays)
         {
-           InterestResult result = _interestStrategy.calculateInterest(pTermInDays, _interest);
+           InterestResult result = _interestStrategy.calculateInterest(pAmount, pTermInDays, _interest);
 
            _interestEarned = result.InterestEarned;
            _annualInterest = result.AnnualInterest;

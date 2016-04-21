@@ -31,6 +31,6 @@ namespace Model
             }
         }
 
-        public abstract decimal calculateBalance(int  pTermInDays);
+        public abstract decimal calculateBalance(decimal pAmount, int  pTermInDays);
     }
 }

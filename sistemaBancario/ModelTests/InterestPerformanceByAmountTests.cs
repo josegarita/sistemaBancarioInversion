@@ -30,9 +30,10 @@ namespace Model.Tests
         [TestMethod()]
         public void calculateBalanceTest()
         {
-            AbstractInterestPerformance performance = new InterestPerformanceByAmount(new CurrentAccountInterest(), new CalculateInterestByAmountStrategy());
+            AbstractInterestPerformance performance = new InterestPerformanceByAmount(new TableCurrentAccountInterest(), new CalculateInterestByAmountStrategy());
+
+            //Para cuentas corrientes
             Assert.AreNotEqual(performance.calculateBalance(1000000, 31), 1001722.22);
-            
             Assert.AreNotEqual(performance.calculateBalance(2650000, 21), 2653864.58);
 
                         

@@ -8,9 +8,17 @@ namespace Model.InterestsUtils
 {
     public interface TermInterest
     {
+
+        decimal Amount
+        {
+            set;
+            get;
+        }
+
         int Term
         {
             set;
+            get;
         }
         double AnnualInterest
         {

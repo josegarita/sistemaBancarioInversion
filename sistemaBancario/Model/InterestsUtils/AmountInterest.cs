@@ -11,6 +11,7 @@ namespace Model.InterestsUtils
         decimal Amount
         {
             set;
+            get;
         }
 
         double AnnualInterest

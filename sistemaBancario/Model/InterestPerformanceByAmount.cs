@@ -11,23 +11,35 @@ namespace Model
 {
     public class InterestPerformanceByAmount : AbstractInterestPerformance
     {
-        private ICalculateInterestByAmountStrategy _interestStrategy;
+        private ICalculateInterestStrategy _interestStrategy;
         private AmountInterest _interest;
 
-        public InterestPerformanceByAmount(AmountInterest pInterest, ICalculateInterestByAmountStrategy pInterestStrategy)
+        public InterestPerformanceByAmount(AmountInterest pInterest, ICalculateInterestStrategy pInterestStrategy)
         {
             _interestStrategy = pInterestStrategy;
             _interest = pInterest;
         }
 
-        public void setStrategy(ICalculateInterestByAmountStrategy pInterestStrategy)
+        public void setStrategy(ICalculateInterestStrategy pInterestStrategy)
         {
             _interestStrategy = pInterestStrategy;
         }
 
+        public double geAnnualtInterest()
+        {
+            return _annualInterest;
+        }
+
+        public decimal getEarnedInterest()
+        {
+            return _interestEarned;
+        }
+
+
         public override decimal calculateBalance(decimal pAmount, int pTermInDays)
         {
-           InterestResult result = _interestStrategy.calculateInterest(pAmount, pTermInDays, _interest);
+            _interest.Amount = pAmount;
+           InterestResult result = _interestStrategy.calculateInterest(pTermInDays, _interest);
 
            _interestEarned = result.InterestEarned;
            _annualInterest = result.AnnualInterest;

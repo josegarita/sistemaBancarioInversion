@@ -42,7 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbstractInterestPerformance.cs" />
-    <Compile Include="InterestCalculationStrategy\ICalculateInterestByAmountStrategy.cs" />
+    <Compile Include="InterestCalculationStrategy\CalculateInterestByAmountStrategy.cs" />
+    <Compile Include="InterestCalculationStrategy\ICalculateInterestStrategy.cs" />
     <Compile Include="InterestPerformanceByAmount.cs" />
     <Compile Include="InterestsUtils\AmountInterest.cs" />
     <Compile Include="InterestsUtils\CurrentAccountInterest.cs" />

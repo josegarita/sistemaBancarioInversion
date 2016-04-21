@@ -16,6 +16,10 @@ namespace Model.InterestsUtils
             {
                 _amount = value;
             }
+            get
+            {
+                return _amount;
+            }
         }
 
         public double AnnualInterest

@@ -9,8 +9,8 @@ using Model.InterestsUtils;
 
 namespace Model.InterestCalculationStrategy
 {
-    public interface ICalculateInterestByAmountStrategy
+    public interface ICalculateInterestStrategy
     {
-        InterestResult calculateInterest(decimal p, int pCantDias, AmountInterest interest);
+        InterestResult calculateInterest(int pCantDias, AmountInterest interest);
     }
 }

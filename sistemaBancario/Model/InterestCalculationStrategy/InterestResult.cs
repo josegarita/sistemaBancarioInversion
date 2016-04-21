@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Model.InterestCalculationStrategy
 {
-    class InterestResult
+    public class InterestResult
     {
         private double _annualInterest;
         private decimal _interestEarned;

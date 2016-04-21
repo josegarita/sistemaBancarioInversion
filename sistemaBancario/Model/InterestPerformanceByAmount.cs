@@ -9,12 +9,12 @@ using Model.InterestsUtils;
 
 namespace Model
 {
-    class InterestPerformanceByAmount : AbstractInterestPerformance
+    public class InterestPerformanceByAmount : AbstractInterestPerformance
     {
         private ICalculateInterestByAmountStrategy _interestStrategy;
         private AmountInterest _interest;
 
-        public InterestPerformanceByAmount(ICalculateInterestByAmountStrategy pInterestStrategy, AmountInterest pInterest)
+        public InterestPerformanceByAmount(AmountInterest pInterest, ICalculateInterestByAmountStrategy pInterestStrategy)
         {
             _interestStrategy = pInterestStrategy;
             _interest = pInterest;

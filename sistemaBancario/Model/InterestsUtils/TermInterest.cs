@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Model.InterestsUtils
 {
-    interface TermInterest
+    public interface TermInterest
     {
         int Term
         {

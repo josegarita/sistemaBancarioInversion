@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Model.InterestsUtils
 {
-    interface AmountInterest
+    public interface AmountInterest
     {
         decimal Amount
         {

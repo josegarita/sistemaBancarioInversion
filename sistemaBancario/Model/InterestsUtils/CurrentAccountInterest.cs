@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Model.InterestsUtils
 {
-    class CurrentAccountInterest : AmountInterest
+    public class CurrentAccountInterest : AmountInterest
     {
         private decimal _amount;    
 

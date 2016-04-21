@@ -8,5 +8,13 @@ namespace Model.InterestsUtils
 {
     interface TermInterest
     {
+        int Term
+        {
+            set;
+        }
+        double AnnualInterest
+        {
+            get;
+        }
     }
 }

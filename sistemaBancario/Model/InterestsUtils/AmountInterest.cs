@@ -8,5 +8,14 @@ namespace Model.InterestsUtils
 {
     interface AmountInterest
     {
+        decimal Amount
+        {
+            set;
+        }
+
+        double AnnualInterest
+        {
+            get;
+        }
     }
 }

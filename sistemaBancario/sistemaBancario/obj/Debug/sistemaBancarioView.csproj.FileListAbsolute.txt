@@ -1,0 +1,6 @@
+C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe.config
+C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe
+C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.pdb
+C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancarioView.csprojResolveAssemblyReference.cache
+C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.exe
+C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.pdb

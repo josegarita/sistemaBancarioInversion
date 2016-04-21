@@ -14,6 +14,11 @@ namespace Model
         private ICalculateInterestStrategy _interestStrategy;
         private AmountInterest _interest;
 
+        public InterestPerformanceByAmount()
+        {
+
+        }
+
         public InterestPerformanceByAmount(AmountInterest pInterest, ICalculateInterestStrategy pInterestStrategy)
         {
             _interestStrategy = pInterestStrategy;

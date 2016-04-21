@@ -5,26 +5,29 @@ using System.Text;
 using System.Threading.Tasks;
 
 using Model.InterestCalculationStrategy;
+using Model.InterestsUtils;
 
 namespace Model
 {
     class InterestPerformanceByAmount : AbstractInterestPerformance
     {
-        ICalculateInterestByAmountStrategy _interestStrategy;
+        private ICalculateInterestByAmountStrategy _interestStrategy;
+        private AmountInterest _interest;
 
-        public InterestPerformanceByAmount(ICalculateInterestByAmountStrategy interestStrategy)
+        public InterestPerformanceByAmount(ICalculateInterestByAmountStrategy pInterestStrategy, AmountInterest pInterest)
         {
-            _interestStrategy = interestStrategy;
+            _interestStrategy = pInterestStrategy;
+            _interest = pInterest;
         }
 
-        public void setStrategy(ICalculateInterestByAmountStrategy interestStrategy)
+        public void setStrategy(ICalculateInterestByAmountStrategy pInterestStrategy)
         {
-            _interestStrategy = interestStrategy;
+            _interestStrategy = pInterestStrategy;
         }
 
         public override decimal calculateBalance(int pTermInDays)
         {
-           InterestResult result = _interestStrategy.calculateInterest(pTermInDays);
+           InterestResult result = _interestStrategy.calculateInterest(pTermInDays, _interest);
 
            _interestEarned = result.InterestEarned;
            _annualInterest = result.AnnualInterest;

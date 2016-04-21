@@ -4,10 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+using Model.InterestsUtils;
+
 namespace Model.InterestCalculationStrategy
 {
     interface ICalculateInterestByAmountStrategy
     {
-        InterestResult calculateInterest(int pCantDias);
+        InterestResult calculateInterest(int pCantDias, AmountInterest interest);
     }
 }

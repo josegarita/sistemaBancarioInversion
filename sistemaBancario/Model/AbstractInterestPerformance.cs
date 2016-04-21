@@ -14,6 +14,7 @@ namespace Model
         protected decimal _interestEarned;
         protected double _annualInterest;
 
+
         public decimal getInterestEarned
         {
             get

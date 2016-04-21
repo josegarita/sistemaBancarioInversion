@@ -42,6 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbstractInterestPerformance.cs" />
+    <Compile Include="Factory\abstractProductService.cs" />
+    <Compile Include="Factory\certificadoFactory.cs" />
+    <Compile Include="Factory\pactoFactory.cs" />
+    <Compile Include="Factory\cuentaCorrienteFactory.cs" />
     <Compile Include="InterestCalculationStrategy\CalculateInterestByAmountStrategy.cs" />
     <Compile Include="InterestCalculationStrategy\CalculateInterestByTermStrategy.cs" />
     <Compile Include="InterestCalculationStrategy\ICalculateInterestAmountStrategy.cs" />

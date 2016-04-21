@@ -15,44 +15,4 @@ namespace sistemaBancario
         }
     }
 
-
-    abstract class abstractProductService {
-        abstract public void createVerify();
-        abstract public void createProduct();
-    }
-
-   class cuentaCorrienteFactory : abstractProductService {
-        public override void createVerify()
-        {
-            throw new NotImplementedException();
-        }
-        public override void createProduct()
-        {
-            throw new NotImplementedException();
-        }
-    }
-
-    class certificadoFactory : abstractProductService {
-        public override void createVerify()
-        {
-            throw new NotImplementedException();
-        }
-        public override void createProduct()
-        {
-            throw new NotImplementedException();
-        }
-
-    }
-
-    class pactoFactory : abstractProductService {
-        public override void createVerify()
-        {
-            throw new NotImplementedException();
-        }
-        public override void createProduct()
-        {
-            throw new NotImplementedException();
-        }
-    }
-
 }

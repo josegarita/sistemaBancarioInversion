@@ -7,3 +7,6 @@ C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\sis
 C:\Users\Ativ Book 4\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe.config
 C:\Users\Ativ Book 4\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.exe
 C:\Users\Ativ Book 4\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.pdb
+M:\Github\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe.config
+M:\Github\sistemaBancarioInversion\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.exe
+M:\Github\sistemaBancarioInversion\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.pdb

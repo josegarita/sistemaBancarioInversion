@@ -18,22 +18,22 @@ namespace Model.Products
 
         public override void calculateInterest()
         {
-            throw new NotImplementedException();
+            _interestPerformance.calculateBalance(this.amount, this.termInDays);
         }
 
         public override float getAnnualInterest()
         {
-            throw new NotImplementedException();
+            return _interestPerformance.getAnnualInterest;
         }
 
         public override decimal getFinalBalance()
         {
-            throw new NotImplementedException();
+            return this.amount + _interestPerformance.getInterestEarned;
         }
 
         public override decimal InterestEarned()
         {
-            throw new NotImplementedException();
+            return _interestPerformance.getInterestEarned;
         }
     }
 }

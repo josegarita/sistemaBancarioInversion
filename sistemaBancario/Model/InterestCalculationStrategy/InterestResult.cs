@@ -8,12 +8,12 @@ namespace Model.InterestCalculationStrategy
 {
     public class InterestResult
     {
-        private double _annualInterest;
+        private float _annualInterest;
         private decimal _interestEarned;
         private decimal _finalBalanceWithInterest;
         private string _message;
 
-        public double AnnualInterest
+        public float AnnualInterest
         {
             set
             {

@@ -12,7 +12,7 @@ namespace Model
     public abstract class AbstractInterestPerformance
     {
         protected decimal _interestEarned;
-        protected double _annualInterest;
+        protected float _annualInterest;
 
 
         public decimal getInterestEarned
@@ -23,7 +23,7 @@ namespace Model
             }
         }
 
-        public double getAnnualInterest
+        public float getAnnualInterest
         {
             get
             {

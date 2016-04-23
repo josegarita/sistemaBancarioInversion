@@ -7,3 +7,10 @@ C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\Mod
 C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\ModelTests\obj\Debug\ModelTests.csprojResolveAssemblyReference.cache
 C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\ModelTests\obj\Debug\ModelTests.dll
 C:\Users\jonaranjo\Documents\GitHub\sistemaBancarioInversion\sistemaBancario\ModelTests\obj\Debug\ModelTests.pdb
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\ModelTests\bin\Debug\ModelTests.dll
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\ModelTests\bin\Debug\ModelTests.pdb
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\ModelTests\bin\Debug\Model.dll
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\ModelTests\bin\Debug\Model.pdb
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\ModelTests\obj\Debug\ModelTests.csprojResolveAssemblyReference.cache
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\ModelTests\obj\Debug\ModelTests.dll
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\ModelTests\obj\Debug\ModelTests.pdb

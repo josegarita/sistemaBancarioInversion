@@ -15,10 +15,10 @@ namespace Model.InterestCalculationStrategy
 
             double annualInterest = interest.AnnualInterest;
 
-            decimal performance = interest.Amount * (decimal)(annualInterest / 360) * (decimal)(interest.Term);
+            decimal performance = Convert.ToDecimal(interest.Amount) * (Convert.ToDecimal(annualInterest) / 360) * (decimal)(interest.Term);
 
             result.FinalBalance = performance + interest.Amount;
-            result.AnnualInterest = annualInterest;
+            result.AnnualInterest = (float) annualInterest;
             result.InterestEarned = performance;
 
           

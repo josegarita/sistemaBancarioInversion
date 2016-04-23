@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Model.Factory
 {
-    public class ProductServiceFactory
+    public class ServiceFactory
     {
 
     }

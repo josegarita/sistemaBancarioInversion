@@ -9,7 +9,7 @@ using Model.Products;
 
 namespace Model.Factory
 {
-    class PactoFactory : AbstractProductService
+    class PactoFactory : AbstractProductServiceFactory
     {
         public override ServiceVerifier createVerify()
         {

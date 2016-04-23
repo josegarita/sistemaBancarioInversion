@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaBancarioView", "sistemaBancario\SistemaBancarioView.csproj", "{DA31EC52-4087-4B34-B5D6-CA25240352BF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{223C2494-511B-4D21-8FCE-53C39D99A6DB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelTests", "ModelTests\ModelTests.csproj", "{F0167ED6-930B-44E5-9D6A-3C64F11E8205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controler", "ClassLibrary1\Controler.csproj", "{E301D9E2-E708-429D-87B6-ECA5A645EAD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +27,10 @@ Global
 		{F0167ED6-930B-44E5-9D6A-3C64F11E8205}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0167ED6-930B-44E5-9D6A-3C64F11E8205}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0167ED6-930B-44E5-9D6A-3C64F11E8205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E301D9E2-E708-429D-87B6-ECA5A645EAD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E301D9E2-E708-429D-87B6-ECA5A645EAD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E301D9E2-E708-429D-87B6-ECA5A645EAD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E301D9E2-E708-429D-87B6-ECA5A645EAD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

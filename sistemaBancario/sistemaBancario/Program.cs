@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
+using Controler.CSVGeneration;
+
 
 namespace sistemaBancario
 {
@@ -11,12 +13,30 @@ namespace sistemaBancario
     {
         static void Main(string[] args)
         {
-            XElement escribir = new XElement("Foo",
-                new XAttribute("Bar", "some and value"),
-                new XElement("Nested", "data"));
-            System.IO.File.WriteAllText(@"WriteLines.txt", (string)escribir);
-            Console.WriteLine(escribir);
-           Console.ReadKey();
+
+            /// <summary>
+            /// Simple CSV export
+            /// Example:
+            CsvExport myExport = new CsvExport();
+            ///
+            myExport.AddRow();
+            myExport["Region"] = "Heredia, CR";
+            myExport["Sales"] = 100000;
+            myExport["Date Opened"] = new DateTime(2003, 12, 31);
+            ///
+            myExport.AddRow();
+            myExport["Region"] = "Barva \"in\" Heredia";
+            myExport["Sales"] = 50000;
+            myExport["Date Opened"] = new DateTime(2005, 1, 1, 9, 30, 0);
+            ///
+            /// Then you can do any of the following three output options:
+            string myCsv = myExport.Export();
+            myExport.ExportToFile("archivoCSV.csv");
+            byte[] myCsvData = myExport.ExportToBytes();
+            /// </summary>
+            /// 
+            Console.WriteLine("Listo");
+            Console.ReadKey();
         }
     }
 

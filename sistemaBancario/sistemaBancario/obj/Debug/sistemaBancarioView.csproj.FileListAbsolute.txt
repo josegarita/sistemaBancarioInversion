@@ -22,3 +22,7 @@ C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBan
 C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe
 C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.pdb
 C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\obj\Debug\SistemaBancarioView.csprojResolveAssemblyReference.cache
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\Model.dll
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\Model.pdb
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\ClassLibrary1.dll
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\ClassLibrary1.pdb

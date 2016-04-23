@@ -1,0 +1,5 @@
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\ClassLibrary1\obj\Debug\Controler.csprojResolveAssemblyReference.cache
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

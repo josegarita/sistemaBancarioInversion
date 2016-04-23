@@ -55,8 +55,19 @@
     <Compile Include="InterestsUtils\AmountInterest.cs" />
     <Compile Include="InterestsUtils\TableCurrentAccountInterest.cs" />
     <Compile Include="InterestsUtils\TermInterest.cs" />
+    <Compile Include="Products\Account.cs" />
+    <Compile Include="Products\CentificadoDeposito.cs" />
+    <Compile Include="Products\InversionPactada.cs" />
+    <Compile Include="Products\CuentaCorriente.cs" />
+    <Compile Include="Products\InvestementProduct.cs" />
+    <Compile Include="Products\MoneyType.cs" />
+    <Compile Include="Products\SavingInvestementProduct.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="InterestCalculationStrategy\InterestResult.cs" />
+    <Compile Include="Verifiers\InversionVistaPactadaVerifier.cs" />
+    <Compile Include="Verifiers\CertificadoDeDepositoVerifier.cs" />
+    <Compile Include="Verifiers\CuentaCorrienteVerifier.cs" />
+    <Compile Include="Verifiers\ServiceVerifier.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

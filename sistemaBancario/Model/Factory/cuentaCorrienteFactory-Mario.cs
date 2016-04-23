@@ -3,25 +3,24 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Model.Verifiers;
 using Model.Products;
-
+using Model.Verifiers;
 
 namespace Model.Factory
 {
-    class PactoFactory : AbstractProductService
+    class cuentaCorrienteFactory : abstractProductService
     {
         public override ServiceVerifier createVerify()
         {
-            InversionVistaPactadaVerifier cuenta = new InversionVistaPactadaVerifier();
+            CuentaCorrienteVerifier cuenta = new CuentaCorrienteVerifier();
             return cuenta;
            
         }
-
         public override SavingInvestementProduct createProduct()
         {
-            InversionPactada cuenta = new InversionPactada();
+            CuentaCorriente cuenta = new CuentaCorriente();
             return cuenta;
         }
     }
+
 }

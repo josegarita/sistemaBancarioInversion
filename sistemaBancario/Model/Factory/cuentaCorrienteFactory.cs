@@ -8,7 +8,7 @@ using Model.Verifiers;
 
 namespace Model.Factory
 {
-    class cuentaCorrienteFactory : abstractProductService
+    class CuentaCorrienteFactory : AbstractProductService
     {
         public override ServiceVerifier createVerify()
         {

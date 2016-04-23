@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Model.Products
 { 
-    enum MoneyType{
+    public enum MoneyType{
         Colones,
         Dolares
     }

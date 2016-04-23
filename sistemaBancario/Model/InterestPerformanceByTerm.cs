@@ -19,6 +19,9 @@ namespace Model
 
             InterestResult result = _strategy.calculateInterest(_interestTable);
 
+            _interestEarned = result.InterestEarned;
+            _annualInterest = result.AnnualInterest;
+
             return result.FinalBalance;
             
         }

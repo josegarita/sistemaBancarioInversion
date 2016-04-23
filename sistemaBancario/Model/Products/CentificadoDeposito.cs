@@ -6,7 +6,26 @@ using System.Threading.Tasks;
 
 namespace Model.Products
 {
-    class CentificadoDeposito:InvestementProduct
+    public class CentificadoDeposito : InvestementProduct
     {
+        public override void calculateInterest()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override float getAnnualInterest()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override decimal getFinalBalance()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override decimal InterestEarned()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

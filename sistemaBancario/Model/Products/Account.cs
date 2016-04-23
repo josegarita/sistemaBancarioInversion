@@ -6,19 +6,14 @@ using System.Threading.Tasks;
 
 namespace Model.Products
 {
-    class Account:SavingInvestementProduct
+    public abstract class Account : SavingInvestementProduct
     {
-        public void calculateInterest(){
+        protected AbstractInterestPerformance _interestPerformance;
+
+        public void setInterestPerformance(AbstractInterestPerformance interestPerformance)
+        {
+            _interestPerformance = interestPerformance;
         }
-        public MoneyType getFinalBalance() {
-            MoneyType m =  MoneyType.Colones;
-            return m;
-        }
-        public float getAnnualInterest() {
-            return (float)1.1;
-        }
-        public MoneyType InterestEarned() {
-            return MoneyType.Colones;
-        }
+
     }
 }

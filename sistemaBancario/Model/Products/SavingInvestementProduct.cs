@@ -6,41 +6,72 @@ using System.Threading.Tasks;
 
 namespace Model.Products
 {
-    abstract class SavingInvestementProduct
+    public abstract class SavingInvestementProduct
     {
         protected decimal amount;
+        protected int termInDays;
+        protected MoneyType currency;
+        protected DateTime creationDate;
 
         public decimal Amount
         {
-            get { return amount; }
-            set { amount = value; }
+            get
+            {
+                return amount;
+            }
+            set
+            {
+                amount = value;
+            }
         }
 
        
-
-        protected int ermInDays;
-
-        public int ErmInDays
+        public int TermInDays
         {
-            get { return ermInDays; }
-            set { ermInDays = value; }
+            get
+            {
+                return termInDays;
+            }
+            set
+            {
+                termInDays = value;
+            }
         }
-        protected MoneyType currency;
-
+        
         public MoneyType Currency
         {
-            get { return currency; }
-            set { currency = value; }
+            get
+            {
+                return currency;
+            }
+            set
+            {
+                currency = value;
+            }
         }
-        protected DateTime creationDate;
-
+       
         public DateTime CreationDate
         {
-            get { return creationDate; }
-            set { creationDate = value; }
+            get
+            {
+                return creationDate;
+            }
+            set
+            {
+                creationDate = value;
+            }
         }
-     
-      
+
+
+        public abstract void calculateInterest();
+
+        public abstract decimal getFinalBalance();
+
+        public abstract float getAnnualInterest();
+
+        public abstract decimal InterestEarned();
+
+
     }
    
 }

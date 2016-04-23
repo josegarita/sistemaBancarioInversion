@@ -71,6 +71,8 @@ namespace Model.Products
 
         public abstract decimal InterestEarned();
 
+        public abstract void setInterestTable(InterestsUtils.InterestTable interest);
+
 
     }
    

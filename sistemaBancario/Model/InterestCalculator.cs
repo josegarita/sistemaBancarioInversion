@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using Model.Factory;
 using Model.Products;
 using Model.Verifiers;
+using Model.InterestsUtils;
 
 namespace Model
 {
@@ -25,9 +26,13 @@ namespace Model
         public string calculateInterestPerformance(decimal amount, int termInDays, MoneyType money)
         {
             
-
             SavingInvestementProduct product = _factory.createProduct();
+            
             ServiceVerifier verifier = _factory.createVerify();
+
+            InterestTable interestTable = InterestTableFactory.GetInterestTableFor(_productType);
+
+            
 
             
 

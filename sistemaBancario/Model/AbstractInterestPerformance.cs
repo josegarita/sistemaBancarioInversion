@@ -29,5 +29,6 @@ namespace Model
         }
 
         public abstract decimal calculateBalance(decimal pAmount, int  pTermInDays);
+        public abstract void setInterestTable(InterestsUtils.InterestTable interest);
     }
 }

@@ -30,6 +30,10 @@ namespace Model
             _interestStrategy = pInterestStrategy;
         }
 
+        public override void setInterestTable (InterestTable interest)
+        {
+            _interestTable = (AmountInterest) interest;
+        }
 
 
         public override decimal calculateBalance(decimal pAmount, int pTermInDays)
@@ -41,5 +45,6 @@ namespace Model
             return result.FinalBalance;
             
         }
+
     }
 }

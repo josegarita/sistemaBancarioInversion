@@ -20,5 +20,10 @@ namespace Model.Products
             return _interestPerformance;
         }
 
+        public override void setInterestTable(InterestsUtils.InterestTable interest)
+        {
+            
+        }
+
     }
 }

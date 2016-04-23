@@ -11,7 +11,7 @@ namespace Model.Products
 
         public CuentaCorriente ()
         {
-            
+            _interestPerformance = new InterestPerformanceByAmount();
         }
 
         public override void calculateInterest()

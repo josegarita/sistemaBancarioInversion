@@ -8,7 +8,7 @@ using Model.Products;
 
 namespace Model.Factory
 {
-    class CertificadoFactory : AbstractProductServiceFactory
+    class CertificadoDeDepositoFactory : AbstractProductServiceFactory
     {
         public override ServiceVerifier createVerify()
         {
@@ -19,6 +19,7 @@ namespace Model.Factory
         public override SavingInvestementProduct createProduct()
         {
             CentificadoDeposito cuenta = new CentificadoDeposito();
+            
             return cuenta;
            
         }

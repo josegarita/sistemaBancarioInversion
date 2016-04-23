@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Model.Factory
 {
-    abstract class AbstractProductServiceFactory
+    public abstract class AbstractProductServiceFactory
     {
         abstract public ServiceVerifier createVerify();
         abstract public SavingInvestementProduct createProduct();

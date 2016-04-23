@@ -19,6 +19,7 @@ namespace Model.Factory
         public override SavingInvestementProduct createProduct()
         {
             CuentaCorriente cuenta = new CuentaCorriente();
+                  
             return cuenta;
         }
     }

@@ -7,7 +7,7 @@ using Model.Products;
 
 namespace Model.Verifiers
 {
-    class ServiceVerifier
+    public class ServiceVerifier
     {
         protected MoneyType currency;
 

@@ -15,5 +15,10 @@ namespace Model.Products
             _interestPerformance = interestPerformance;
         }
 
+        public AbstractInterestPerformance getInterestPerformance()
+        {
+            return _interestPerformance;
+        }
+
     }
 }

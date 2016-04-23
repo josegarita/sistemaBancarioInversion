@@ -9,7 +9,7 @@ using Model.Products;
 
 namespace Model.Factory
 {
-    class PactoFactory : AbstractProductServiceFactory
+    class InversionVistaPactaFactory : AbstractProductServiceFactory
     {
         public override ServiceVerifier createVerify()
         {
@@ -21,6 +21,7 @@ namespace Model.Factory
         public override SavingInvestementProduct createProduct()
         {
             InversionPactada cuenta = new InversionPactada();
+            
             return cuenta;
         }
     }

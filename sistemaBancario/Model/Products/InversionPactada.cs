@@ -13,7 +13,7 @@ namespace Model.Products
     {
         public InversionPactada()
         {
-            
+            _interestPerformance = new InterestPerformanceByTerm();
         }
 
         public override void calculateInterest()

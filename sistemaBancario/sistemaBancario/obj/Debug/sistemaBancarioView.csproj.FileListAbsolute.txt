@@ -13,3 +13,6 @@ C:\Users\jonaranjo\Downloads\sistemaBancarioInversion\sistemaBancario\sistemaBan
 C:\Users\jonaranjo\Downloads\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe
 C:\Users\jonaranjo\Downloads\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.pdb
 C:\Users\jonaranjo\Downloads\sistemaBancarioInversion\sistemaBancario\sistemaBancario\obj\Debug\SistemaBancarioView.csprojResolveAssemblyReference.cache
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe.config
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.exe
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.pdb

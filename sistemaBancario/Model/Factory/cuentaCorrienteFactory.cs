@@ -10,17 +10,16 @@ namespace Model.Factory
 {
     class cuentaCorrienteFactory : abstractProductService
     {
-        public override CuentaCorrienteVerifier createVerify()
+        public override ServiceVerifier createVerify()
         {
             CuentaCorrienteVerifier cuenta = new CuentaCorrienteVerifier();
             return cuenta;
-            throw new NotImplementedException();
+           
         }
-        public override CuentaCorriente createProduct()
+        public override SavingInvestementProduct createProduct()
         {
             CuentaCorriente cuenta = new CuentaCorriente();
             return cuenta;
-            throw new NotImplementedException();
         }
     }
 

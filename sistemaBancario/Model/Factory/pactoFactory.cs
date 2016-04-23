@@ -11,14 +11,14 @@ namespace Model.Factory
 {
     class pactoFactory : abstractProductService
     {
-        public override InversionVistaPactadaVerifier createVerify()
+        public override ServiceVerifier createVerify()
         {
             InversionVistaPactadaVerifier cuenta = new InversionVistaPactadaVerifier();
             return cuenta;
-            throw new NotImplementedException();
+           
         }
 
-        public override InversionPactada createProduct()
+        public override SavingInvestementProduct createProduct()
         {
             InversionPactada cuenta = new InversionPactada();
             return cuenta;

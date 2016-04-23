@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Model.Verifiers
 {
-    class CuentaCorrienteVerifier
+    class CuentaCorrienteVerifier : ServiceVerifier
     {
         public CuentaCorrienteVerifier()
         { 

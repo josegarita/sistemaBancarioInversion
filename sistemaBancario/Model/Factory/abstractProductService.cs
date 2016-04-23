@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Model.Products;
+using Model.Verifiers;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,8 +10,8 @@ namespace Model.Factory
 {
     abstract class abstractProductService
     {
-        abstract public void createVerify();
-        abstract public void createProduct();
+        abstract public ServiceVerifier createVerify();
+        abstract public SavingInvestementProduct createProduct();
     }
 
 }

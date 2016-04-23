@@ -10,17 +10,17 @@ namespace Model.Factory
 {
     class certificadoFactory : abstractProductService
     {
-        public override CertificadoDeDepositoVerifier createVerify()
+        public override ServiceVerifier createVerify()
         {
-            CertificadoDeDepositoVerifier cuenta = new CertificadoDeDepositoVerifier;
+            CertificadoDeDepositoVerifier cuenta = new CertificadoDeDepositoVerifier();
             return cuenta;
-            throw new NotImplementedException();
+           
         }
-        public override CentificadoDeposito createProduct()
+        public override SavingInvestementProduct createProduct()
         {
             CentificadoDeposito cuenta = new CentificadoDeposito();
             return cuenta;
-            throw new NotImplementedException();
+           
         }
 
     }

@@ -54,6 +54,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="InterestCalculatorTests.cs" />
     <Compile Include="InterestPerformanceByAmountTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -22,7 +22,7 @@ namespace Model.Products
 
         public override void setInterestTable(InterestsUtils.InterestTable interest)
         {
-            
+            _interestPerformance.setInterestTable(interest);
         }
 
     }

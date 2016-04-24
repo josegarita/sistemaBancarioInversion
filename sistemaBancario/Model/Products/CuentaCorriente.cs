@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Model.InterestCalculationStrategy;
 
 namespace Model.Products
 {
@@ -34,5 +35,6 @@ namespace Model.Products
         {
             return _interestPerformance.getInterestEarned;
         }
+
     }
 }

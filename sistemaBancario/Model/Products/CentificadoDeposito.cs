@@ -8,6 +8,12 @@ namespace Model.Products
 {
     public class CentificadoDeposito : InvestementProduct
     {
+
+        public CentificadoDeposito()
+        {
+            _interestPerformance = new InterestPerformanceByTerm();
+        }
+
         public override void calculateInterest()
         {
             _interestPerformance.calculateBalance(this.amount, this.termInDays);

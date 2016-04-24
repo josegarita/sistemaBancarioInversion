@@ -13,7 +13,9 @@ namespace Model.InterestsUtils
             switch (productType)
             {
                 case "CuentaCorriente":
-                    return new TableCurrentAccountInterest();
+                    return new TableCuentaCorriente();
+                case "CertificadoDeDeposito":
+                    return new TableCertificadoDeDeposito();
                 default:
                     return null;
             }

@@ -11,7 +11,7 @@ namespace Model
 {
     public class InterestPerformanceByAmount : AbstractInterestPerformance
     {
-        private ICalculateInterestAmountStrategy _interestStrategy;
+        private ICalculateInterestAmountStrategy _interestStrategy = new CalculateInterestByAmountStrategy();
         private AmountInterest _interestTable;
 
         public InterestPerformanceByAmount()
@@ -19,11 +19,10 @@ namespace Model
 
         }
 
-        public InterestPerformanceByAmount(AmountInterest pInterest, ICalculateInterestAmountStrategy pInterestStrategy)
+        public InterestPerformanceByAmount(ICalculateInterestAmountStrategy pInterestStrategy)
         {
             _interestStrategy = pInterestStrategy;
-            _interestTable = pInterest;
-        }
+         }
 
         public void setStrategy(ICalculateInterestAmountStrategy pInterestStrategy)
         {

@@ -16,6 +16,7 @@ namespace Model
 
         private AbstractProductServiceFactory _factory;
         private string _productType;
+        private InterestTable _hola;
 
         public InterestCalculator(string productType)
         {
@@ -23,21 +24,30 @@ namespace Model
             _productType = productType;
         }
 
-        public string calculateInterestPerformance(decimal amount, int termInDays, MoneyType money)
+        public decimal calculateInterestPerformance(decimal amount, int termInDays, MoneyType money)
         {
             
             SavingInvestementProduct product = _factory.createProduct();
+
+            product.Amount = amount;
+            product.TermInDays = termInDays;
+            product.Currency = money;
             
             ServiceVerifier verifier = _factory.createVerify();
 
             InterestTable interestTable = InterestTableFactory.GetInterestTableFor(_productType);
 
-            
+            _hola = interestTable;
 
             
 
+            product.setInterestTable(interestTable);
 
-            return "Hola";
+
+            product.calculateInterest();
+
+
+            return product.getFinalBalance();
         }
 
     }

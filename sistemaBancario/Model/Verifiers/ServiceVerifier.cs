@@ -30,5 +30,7 @@ namespace Model.Verifiers
             get { return miniumMoneyAmount; }
             set { miniumMoneyAmount = value; }
         }
+
+
     }
 }

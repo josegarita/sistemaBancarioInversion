@@ -26,3 +26,10 @@ C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBan
 C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\Model.pdb
 C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\ClassLibrary1.dll
 C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\ClassLibrary1.pdb
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.pdb
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\ClassLibrary1.dll
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\Model.dll
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\ClassLibrary1.pdb
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\Model.pdb
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\obj\Debug\SistemaBancarioView.csprojResolveAssemblyReference.cache

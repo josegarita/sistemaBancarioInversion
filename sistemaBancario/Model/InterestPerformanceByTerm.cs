@@ -10,12 +10,13 @@ namespace Model
 {
     class InterestPerformanceByTerm : AbstractInterestPerformance
     {
-        private ICalculateInterestTermStrategy _interestStrategy;
+        private ICalculateInterestTermStrategy _interestStrategy = new CalculateInterestByTermStrategy();
         private TermInterest _interestTable;
 
         public override decimal calculateBalance(decimal pAmount, int pTermInDays)
         {
             _interestTable.Term = pTermInDays;
+            _interestTable.Amount = pAmount;        
 
             InterestResult result = _interestStrategy.calculateInterest(_interestTable);
 

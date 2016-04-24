@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Model.InterestCalculationStrategy;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -29,6 +30,7 @@ namespace Model
         }
 
         public abstract decimal calculateBalance(decimal pAmount, int  pTermInDays);
-        public abstract void setInterestTable(InterestsUtils.InterestTable interest);
+        public abstract void setInterestTable(Model.InterestsUtils.InterestTable interest);
+
     }
 }

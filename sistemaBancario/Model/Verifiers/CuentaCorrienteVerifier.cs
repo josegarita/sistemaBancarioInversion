@@ -12,5 +12,10 @@ namespace Model.Verifiers
         { 
             
         }
+
+        public override ProductServiceMessage canServiceBeOpen()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

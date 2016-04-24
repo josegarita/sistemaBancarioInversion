@@ -26,5 +26,13 @@ namespace Model.Verifiers
         public void/*productMessage*/ applyTax() {
             //return productMessage
         }
+
+        public override ProductServiceMessage canServiceBeOpen()
+        {
+            ProductServiceMessage message = new ProductServiceMessage();
+
+            return message;
+
+        }
     }
 }

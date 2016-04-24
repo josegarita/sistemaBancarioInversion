@@ -24,12 +24,14 @@ namespace Model.Tests
             
             InterestCalculator calculator = new InterestCalculator("CuentaCorriente");
             decimal finalBalance = calculator.calculateInterestPerformance(1000000, 31, Model.Products.MoneyType.Colones);
-            /*
+            
+
             Assert.AreEqual(Math.Round(finalBalance, 2), 1001722.22M);
 
             finalBalance = calculator.calculateInterestPerformance(2650000, 21, Model.Products.MoneyType.Colones);
+
             Assert.AreEqual(Math.Round(finalBalance, 2), 2653864.58M);
-            */
+            
 
             //Vista Pactada
             

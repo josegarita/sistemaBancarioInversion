@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Model.TaxStrategy;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,8 @@ namespace Model.Products
         protected int termInDays;
         protected MoneyType currency;
         protected DateTime creationDate;
+
+        protected TaxDeductionStrategy taxStrategy;
 
         public decimal Amount
         {
@@ -60,6 +63,11 @@ namespace Model.Products
             {
                 creationDate = value;
             }
+        }
+
+        public void setTaxStrategy (TaxDeductionStrategy strategy)
+        {
+            taxStrategy = strategy;
         }
 
 

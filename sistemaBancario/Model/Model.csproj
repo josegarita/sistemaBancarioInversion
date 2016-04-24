@@ -60,6 +60,7 @@
     <Compile Include="InterestsUtils\TableCertificadoDeDeposito.cs" />
     <Compile Include="InterestsUtils\TableCuentaCorriente.cs" />
     <Compile Include="InterestsUtils\TermInterest.cs" />
+    <Compile Include="ProductServiceMessage.cs" />
     <Compile Include="Products\Account.cs" />
     <Compile Include="Products\CentificadoDeposito.cs" />
     <Compile Include="Products\InversionPactada.cs" />
@@ -69,6 +70,9 @@
     <Compile Include="Products\SavingInvestementProduct.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="InterestCalculationStrategy\InterestResult.cs" />
+    <Compile Include="TaxStrategy\CertificadoRentaDeductionStrategy.cs" />
+    <Compile Include="TaxStrategy\NullTaxStrategy.cs" />
+    <Compile Include="TaxStrategy\TaxDeductionStrategy.cs" />
     <Compile Include="Verifiers\InversionVistaPactadaVerifier.cs" />
     <Compile Include="Verifiers\CertificadoDeDepositoVerifier.cs" />
     <Compile Include="Verifiers\CuentaCorrienteVerifier.cs" />

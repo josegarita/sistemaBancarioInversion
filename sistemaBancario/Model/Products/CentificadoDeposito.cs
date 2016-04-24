@@ -12,6 +12,7 @@ namespace Model.Products
         public CentificadoDeposito()
         {
             _interestPerformance = new InterestPerformanceByTerm();
+            taxStrategy = new TaxStrategy.CertificadoRentaDeductionStrategy();
         }
 
         public override void calculateInterest()
@@ -26,12 +27,14 @@ namespace Model.Products
 
         public override decimal getFinalBalance()
         {
-            return this.amount + _interestPerformance.getInterestEarned;
+            decimal taxDeduction = taxStrategy.calculateTaxDedution(_interestPerformance.getInterestEarned);
+            decimal amountWithTax = (this.amount + _interestPerformance.getInterestEarned) - taxDeduction;
+            return amountWithTax;
         }
 
         public override decimal InterestEarned()
         {
-            return _interestPerformance.getInterestEarned;
+            return taxStrategy.calculateTaxDedution(_interestPerformance.getInterestEarned);
         }
     }
 }

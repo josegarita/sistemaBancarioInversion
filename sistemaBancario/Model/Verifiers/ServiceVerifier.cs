@@ -7,7 +7,7 @@ using Model.Products;
 
 namespace Model.Verifiers
 {
-    public class ServiceVerifier
+    public abstract class ServiceVerifier
     {
         protected MoneyType currency;
 
@@ -31,6 +31,6 @@ namespace Model.Verifiers
             set { miniumMoneyAmount = value; }
         }
 
-
+        public abstract ProductServiceMessage canServiceBeOpen();
     }
 }

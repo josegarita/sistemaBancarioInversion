@@ -1,4 +1,4 @@
 ﻿sep=,
-Region,Sales,Date Opened
-"Heredia, CR",100000,2003-12-31
-"Barva ""in"" Heredia",50000,2005-01-01 09:30:00
+Nombre,CuentaMonto,Date Opened
+Jose,100000,2003-12-31
+Mario,50000,2005-01-01 09:30:00

@@ -27,7 +27,7 @@ namespace Model.Tests
             // Assert.Fail();
         }
 
-        [TestMethod()]
+        /*[TestMethod()]
         public void calculateBalanceTest()
         {
             AbstractInterestPerformance performance = new InterestPerformanceByAmount(new CalculateInterestByAmountStrategy());
@@ -37,6 +37,6 @@ namespace Model.Tests
             Assert.AreNotEqual(performance.calculateBalance(2650000, 21), 2653864.58);
 
                         
-        }
+        }*/
     }
 }

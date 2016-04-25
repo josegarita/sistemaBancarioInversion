@@ -81,6 +81,8 @@ namespace Model.Products
 
         public abstract void setInterestTable(InterestsUtils.InterestTable interest);
 
+        public abstract decimal getTax();
+
 
     }
    

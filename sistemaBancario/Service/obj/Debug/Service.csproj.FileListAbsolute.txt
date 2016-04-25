@@ -1,0 +1,4 @@
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\Service\bin\Debug\Service.dll
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\Service\bin\Debug\Service.pdb
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\Service\obj\Debug\Service.dll
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\Service\obj\Debug\Service.pdb

@@ -13,3 +13,18 @@ C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSI�
 C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
 C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\Model\obj\Debug\Model.dll
 C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\Model\obj\Debug\Model.pdb
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\Model\bin\Debug\Model.dll
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\Model\bin\Debug\Model.pdb
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\Model\obj\Debug\Model.dll
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\Model\obj\Debug\Model.pdb
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\Model\bin\Debug\Model.dll
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\Model\bin\Debug\Model.pdb
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\Model\obj\Debug\Model.dll
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\Model\obj\Debug\Model.pdb
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\Model\bin\Debug\Model.dll
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\Model\bin\Debug\Model.pdb
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\Model\obj\Debug\Model.dll
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\Model\obj\Debug\Model.pdb

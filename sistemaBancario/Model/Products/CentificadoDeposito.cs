@@ -27,14 +27,16 @@ namespace Model.Products
 
         public override decimal getFinalBalance()
         {
-            decimal taxDeduction = taxStrategy.calculateTaxDedution(_interestPerformance.getInterestEarned);
-            decimal amountWithTax = (this.amount + _interestPerformance.getInterestEarned) - taxDeduction;
-            return amountWithTax;
+            decimal tax = taxStrategy.calculateTaxDedution(_interestPerformance.getInterestEarned);
+
+            decimal realInterestEarned = _interestPerformance.getInterestEarned - tax;
+
+            return this.amount + realInterestEarned;
         }
 
         public override decimal InterestEarned()
         {
-            return taxStrategy.calculateTaxDedution(_interestPerformance.getInterestEarned);
+            return _interestPerformance.getInterestEarned;
         }
     }
 }

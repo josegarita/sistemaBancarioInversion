@@ -42,9 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbstractInterestPerformance.cs" />
+    <Compile Include="CalculatorMessage.cs" />
     <Compile Include="Factory\AbstractProductServiceFactory.cs" />
     <Compile Include="Factory\CertificadoDeDepositoFactory.cs" />
-    <Compile Include="Factory\InversionVistaPactaFactory.cs" />
+    <Compile Include="Factory\InversionVistaPactadaFactory.cs" />
     <Compile Include="Factory\CuentaCorrienteFactory.cs" />
     <Compile Include="Factory\ServiceFactory.cs" />
     <Compile Include="InterestCalculationStrategy\CalculateInterestByAmountStrategy.cs" />
@@ -59,6 +60,8 @@
     <Compile Include="InterestsUtils\InterestTableFactory.cs" />
     <Compile Include="InterestsUtils\TableCertificadoDeDeposito.cs" />
     <Compile Include="InterestsUtils\TableCuentaCorriente.cs" />
+    <Compile Include="InterestsUtils\TableInversionVistaPactadaColones.cs" />
+    <Compile Include="InterestsUtils\TableInversionVistaPactadaDolares.cs" />
     <Compile Include="InterestsUtils\TermInterest.cs" />
     <Compile Include="ProductServiceMessage.cs" />
     <Compile Include="Products\Account.cs" />

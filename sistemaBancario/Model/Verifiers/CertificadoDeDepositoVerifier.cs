@@ -13,7 +13,8 @@ namespace Model.Verifiers
         //constructor
         public CertificadoDeDepositoVerifier()
         {
-
+            //Valores por defecto para el certificado de depósito
+            this.miniumTermInDays = 30;
         }
 
         public int MiniumTermInDays
@@ -31,8 +32,40 @@ namespace Model.Verifiers
         {
             ProductServiceMessage message = new ProductServiceMessage();
 
+            this.calculateMinimumAmount();
+
+            if (this.miniumMoneyAmount <= this.product.Amount && this.miniumTermInDays <= this.product.TermInDays)
+            {
+                message.CanBeOpen = true;
+                message.Message = "se puede abrir";
+            }
+            else
+            {
+                message.CanBeOpen = false;
+
+                message.Message = "La cantidad mínima de días debe ser : " 
+                    + System.Convert.ToString(this.miniumTermInDays) 
+                    + " y la cantidad mínima del monto debe ser: " 
+                    + System.Convert.ToString(this.miniumMoneyAmount); 
+            }
+
             return message;
 
+        }
+
+        private void calculateMinimumAmount()
+        {
+            int termInDaysForTheProduct = this.product.TermInDays;
+
+            if (termInDaysForTheProduct >= 30 && termInDaysForTheProduct <= 89)
+            {
+                this.miniumMoneyAmount = 100000; // 100 000 colones
+            }
+            else if (termInDaysForTheProduct >= 90)
+            {
+                this.miniumMoneyAmount = 50000; // 50 000 colones
+            }
+           
         }
     }
 }

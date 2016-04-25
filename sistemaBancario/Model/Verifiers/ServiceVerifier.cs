@@ -10,20 +10,22 @@ namespace Model.Verifiers
     public abstract class ServiceVerifier
     {
         protected MoneyType currency;
+        protected decimal miniumMoneyAmount;
+        protected SavingInvestementProduct product;
 
         public MoneyType Currency
         {
             get { return currency; }
             set { currency = value; }
         }
-        protected SavingInvestementProduct product;
+       
 
         public SavingInvestementProduct Product
         {
             get { return product; }
             set { product = value; }
         }
-        private decimal miniumMoneyAmount;
+        
 
         public decimal MiniumMoneyAmount
         {

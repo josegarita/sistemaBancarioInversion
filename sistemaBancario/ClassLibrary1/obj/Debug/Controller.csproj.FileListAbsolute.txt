@@ -1,0 +1,9 @@
+G:\TEC\GitHub\sistemaBancario\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+G:\TEC\GitHub\sistemaBancario\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+G:\TEC\GitHub\sistemaBancario\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+G:\TEC\GitHub\sistemaBancario\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary1\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

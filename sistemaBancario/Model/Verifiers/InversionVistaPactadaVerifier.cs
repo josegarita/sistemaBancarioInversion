@@ -10,19 +10,34 @@ namespace Model.Verifiers
     {
         private int miniumTermInDays;
 
+        public InversionVistaPactadaVerifier()
+        {
+            //Valores por defecto 
+            this.miniumTermInDays = 15;
+        }
+
         public int MiniumTermInDays
         {
             get { return miniumTermInDays; }
             set { miniumTermInDays = value; }
         }
 
-        public InversionVistaPactadaVerifier() {          
-
-        }
-
+      
         public override ProductServiceMessage canServiceBeOpen()
         {
-            throw new NotImplementedException();
+            ProductServiceMessage message = new ProductServiceMessage();
+
+            if (this.miniumTermInDays <= this.product.TermInDays)
+            {
+                message.CanBeOpen = true;
+            }
+            else
+            {
+                message.CanBeOpen = false;
+            }
+
+
+            return message;
         }
     }
 }

@@ -10,6 +10,19 @@ namespace Model.Factory
     {
         public static AbstractProductServiceFactory GetFactoryFor (string productType)
         {
+
+            string namespaceName = typeof(AbstractProductServiceFactory).Namespace;
+
+            AbstractProductServiceFactory factory = null;
+
+            string className = namespaceName + "." + productType + "Factory";
+
+            factory = (AbstractProductServiceFactory)Activator.CreateInstance(Type.GetType(className));
+
+            return factory;
+
+
+      /*        
             switch (productType)
             {
                 case "CertificadoDeDeposito":
@@ -18,9 +31,12 @@ namespace Model.Factory
                     return new InversionVistaPactaFactory();
                 case "CuentaCorriente":
                     return new CuentaCorrienteFactory();
+                case "VistaPactada":
+                    return new InversionVistaPactaFactory();
                 default:
                     return null;
             }
+            */
         }
     }
 }

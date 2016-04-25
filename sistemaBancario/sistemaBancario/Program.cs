@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
-using Controler.CSVGeneration;
-
+using Controller.CSVGeneration;
+using GUI;
 
 namespace sistemaBancario
 {
@@ -13,6 +13,47 @@ namespace sistemaBancario
     {
         static void Main(string[] args)
         {
+            /*
+            string bienvenida = "Bienvenido (a) al cálculo de intereses de productos de ahorro e inversión\n";
+            string resultado = "---Datos del cliente y su operacipón bancaria---";
+            string cliente = "Cliente: ";
+            string sistemaAhorro = "Sistema de ahorro e inversión: ";
+            string monto = "Monto de ahorro e inversión: ";
+            string plazo = "Plazo de inversión en días: ";
+            string moneda = "Moneda: ";
+            string nameInput;
+
+            Console.WriteLine(typeof(Model.Factory.AbstractProductServiceFactory).Namespace);
+
+            Console.WriteLine(bienvenida);
+
+            string line;
+            Console.WriteLine("Enter one or more lines of text (press CTRL+Z to exit):");
+
+
+            Console.Write(cliente);
+                line = Console.ReadLine();
+                Console.Write(sistemaAhorro);
+                line = Console.ReadLine();
+                Console.Write(monto);
+                line = Console.ReadLine();
+                Console.Write(plazo);
+                line = Console.ReadLine();
+                Console.Write(moneda);
+                line = Console.ReadLine();
+
+                Console.WriteLine();
+                Console.WriteLine(resultado);
+
+          /* */
+
+            ventanaPrincipal vent = new ventanaPrincipal();
+            
+            vent.ShowDialog();
+
+            
+            //System.Net.Mime.MediaTypeNames.Application.run(new ventanaPrincipal);
+
             /*
             /// <summary>
             /// Simple CSV export
@@ -37,6 +78,10 @@ namespace sistemaBancario
             /// 
             Console.WriteLine("Listo");
               /**/
+
+
+
+
             Console.ReadKey();
         }
     }

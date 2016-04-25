@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Model.Verifiers;
+﻿using Model.Verifiers;
 using Model.Products;
 
 
 namespace Model.Factory
 {
-    class InversionVistaPactaFactory : AbstractProductServiceFactory
+    class InversionVistaPactadaFactory : AbstractProductServiceFactory
     {
         public override ServiceVerifier createVerify()
         {

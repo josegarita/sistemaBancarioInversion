@@ -23,3 +23,32 @@ C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSI�
 C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\ModelTests\obj\Debug\ModelTests.csprojResolveAssemblyReference.cache
 C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\ModelTests\obj\Debug\ModelTests.dll
 C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\ModelTests\obj\Debug\ModelTests.pdb
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\ModelTests\bin\Debug\ModelTests.dll
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\ModelTests\bin\Debug\ModelTests.pdb
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\ModelTests\bin\Debug\Model.dll
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\ModelTests\bin\Debug\Model.pdb
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\ModelTests\obj\Debug\ModelTests.csprojResolveAssemblyReference.cache
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\ModelTests\obj\Debug\ModelTests.dll
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\ModelTests\obj\Debug\ModelTests.pdb
+G:\TEC\GitHub\sistemaBancario\ModelTests\bin\Debug\ModelTests.dll
+G:\TEC\GitHub\sistemaBancario\ModelTests\bin\Debug\ModelTests.pdb
+G:\TEC\GitHub\sistemaBancario\ModelTests\bin\Debug\Model.dll
+G:\TEC\GitHub\sistemaBancario\ModelTests\bin\Debug\Model.pdb
+G:\TEC\GitHub\sistemaBancario\ModelTests\obj\Debug\ModelTests.csprojResolveAssemblyReference.cache
+G:\TEC\GitHub\sistemaBancario\ModelTests\obj\Debug\ModelTests.dll
+G:\TEC\GitHub\sistemaBancario\ModelTests\obj\Debug\ModelTests.pdb
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ModelTests\bin\Debug\ModelTests.dll
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ModelTests\bin\Debug\ModelTests.pdb
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ModelTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ModelTests\bin\Debug\Model.dll
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ModelTests\bin\Debug\Model.pdb
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ModelTests\obj\Debug\ModelTests.csprojResolveAssemblyReference.cache
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ModelTests\obj\Debug\ModelTests.dll
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ModelTests\obj\Debug\ModelTests.pdb
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ModelTests\bin\Debug\ModelTests.dll
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ModelTests\bin\Debug\ModelTests.pdb
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ModelTests\bin\Debug\Model.dll
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ModelTests\bin\Debug\Model.pdb
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ModelTests\obj\Debug\ModelTests.csprojResolveAssemblyReference.cache
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ModelTests\obj\Debug\ModelTests.dll
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ModelTests\obj\Debug\ModelTests.pdb

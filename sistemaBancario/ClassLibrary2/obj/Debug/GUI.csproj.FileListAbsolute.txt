@@ -1,0 +1,14 @@
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\obj\Debug\GUI.ventanaPrincipal.resources
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\obj\Debug\GUI.ventanaPrincipal.resources
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

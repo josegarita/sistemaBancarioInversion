@@ -12,10 +12,14 @@ namespace Model.InterestsUtils
         {
             switch (productType)
             {
-                case "CuentaCorriente":
+                case "CuentaCorrienteColones":
                     return new TableCuentaCorriente();
-                case "CertificadoDeDeposito":
+                case "CertificadoDeDepositoColones":
                     return new TableCertificadoDeDeposito();
+                case "InversionVistaPactadaColones":
+                    return new TableInversionVistaPactadaColones();
+                case "InversionVistaPactadaDolares":
+                    return new TableInversionVistaPactadaDolares();
                 default:
                     return null;
             }

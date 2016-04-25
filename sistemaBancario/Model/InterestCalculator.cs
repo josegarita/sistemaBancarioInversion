@@ -16,38 +16,58 @@ namespace Model
 
         private AbstractProductServiceFactory _factory;
         private string _productType;
-        private InterestTable _hola;
-
+               
         public InterestCalculator(string productType)
         {
+            //Se obtiene la fábrica correspondiente
             _factory = ServiceFactory.GetFactoryFor(productType);
             _productType = productType;
         }
 
-        public decimal calculateInterestPerformance(decimal amount, int termInDays, MoneyType money)
+        public CalculatorMessage calculateInterestPerformance(decimal amount, int termInDays, MoneyType money)
         {
-            
+            //Se genera la caja para encapsular el resultado
+            CalculatorMessage result = new CalculatorMessage();
+      
+            //Se obtiene los productos
             SavingInvestementProduct product = _factory.createProduct();
-
+            
             product.Amount = amount;
             product.TermInDays = termInDays;
             product.Currency = money;
             
+            //Se crea el verficador para procesar el producto de inversión y ahorro
             ServiceVerifier verifier = _factory.createVerify();
+            verifier.Product = product;
 
-            InterestTable interestTable = InterestTableFactory.GetInterestTableFor(_productType);
+            //Verificar la apertura del servicio
+            ProductServiceMessage verifyMessage = verifier.canServiceBeOpen();
 
-            _hola = interestTable;
+            if (verifyMessage.CanBeOpen == true)
+            {
+                //Se crea la tabla de intereses para el producto de inversión y ahorro; más se le adjunta al producto
+                string tableInterest = _productType + money.ToString();
+                InterestTable interestTable = InterestTableFactory.GetInterestTableFor(tableInterest);
+                product.setInterestTable(interestTable);
 
-            
+                //Se calcula el rendimiento del producto
+                product.calculateInterest();
 
-            product.setInterestTable(interestTable);
+                result.InterestEarned = product.InterestEarned();
+                result.FinalBalance = product.getFinalBalance();
+                result.TaxApplied = product.getTax();
 
+            }
+            else
+            {
+             
+                result.InterestEarned = 0;
+                result.FinalBalance = 0;
+                result.TaxApplied = 0;
+            }
 
-            product.calculateInterest();
-
-
-            return product.getFinalBalance();
+            result.Message = verifyMessage.Message;
+           return result;
         }
 
     }

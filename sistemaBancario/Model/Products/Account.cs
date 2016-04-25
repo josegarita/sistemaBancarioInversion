@@ -25,5 +25,10 @@ namespace Model.Products
             _interestPerformance.setInterestTable(interest);
         }
 
+        public override decimal getTax()
+        {
+            return this.taxStrategy.calculateTaxDedution(this._interestPerformance.getInterestEarned);
+        }
+
     }
 }

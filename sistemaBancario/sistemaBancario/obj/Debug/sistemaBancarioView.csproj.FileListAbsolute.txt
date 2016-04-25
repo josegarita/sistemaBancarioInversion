@@ -33,3 +33,55 @@ C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSI�
 C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\ClassLibrary1.pdb
 C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\bin\Debug\Model.pdb
 C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\sistemaBancarioInversion\sistemaBancario\sistemaBancario\obj\Debug\SistemaBancarioView.csprojResolveAssemblyReference.cache
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe.config
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.exe
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.pdb
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.pdb
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\sistemaBancario\bin\Debug\ClassLibrary1.dll
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\sistemaBancario\bin\Debug\Model.dll
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\sistemaBancario\bin\Debug\ClassLibrary1.pdb
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\sistemaBancario\bin\Debug\Model.pdb
+C:\Users\jonaranjo.ESTUDIANTES\Documents\GitHub\sistemaBancario\sistemaBancario\obj\Debug\SistemaBancarioView.csprojResolveAssemblyReference.cache
+G:\TEC\GitHub\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe.config
+G:\TEC\GitHub\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.exe
+G:\TEC\GitHub\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.pdb
+G:\TEC\GitHub\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe
+G:\TEC\GitHub\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.pdb
+G:\TEC\GitHub\sistemaBancario\sistemaBancario\bin\Debug\ClassLibrary1.dll
+G:\TEC\GitHub\sistemaBancario\sistemaBancario\bin\Debug\Model.dll
+G:\TEC\GitHub\sistemaBancario\sistemaBancario\bin\Debug\ClassLibrary1.pdb
+G:\TEC\GitHub\sistemaBancario\sistemaBancario\bin\Debug\Model.pdb
+G:\TEC\GitHub\sistemaBancario\sistemaBancario\obj\Debug\SistemaBancarioView.csprojResolveAssemblyReference.cache
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe.config
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.exe
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.pdb
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.pdb
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\ClassLibrary1.dll
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\Model.dll
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\ClassLibrary1.pdb
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\Model.pdb
+C:\Users\Jose Mario\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\obj\Debug\SistemaBancarioView.csprojResolveAssemblyReference.cache
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe.config
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.exe
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.pdb
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.pdb
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\ClassLibrary1.dll
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\Model.dll
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\ClassLibrary1.pdb
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\Model.pdb
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\obj\Debug\SistemaBancarioView.csprojResolveAssemblyReference.cache
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe.config
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.exe
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.pdb
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.pdb
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\ClassLibrary1.dll
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\ClassLibrary2.dll
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\Model.dll
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\ClassLibrary1.pdb
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\ClassLibrary2.pdb
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\bin\Debug\Model.pdb
+C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\sistemaBancario\obj\Debug\SistemaBancarioView.csprojResolveAssemblyReference.cache

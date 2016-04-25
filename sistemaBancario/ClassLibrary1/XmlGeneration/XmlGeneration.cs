@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
-namespace Controler.XmlGeneration
+namespace Controller.XmlGeneration
 {
     class XmlGeneration
     {

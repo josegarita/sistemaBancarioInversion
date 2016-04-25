@@ -42,6 +42,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="ventanaResultado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ventanaResultado.Designer.cs">
+      <DependentUpon>ventanaResultado.cs</DependentUpon>
+    </Compile>
     <Compile Include="ventanaPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -51,9 +57,22 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="ventanaResultado.resx">
+      <DependentUpon>ventanaResultado.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ventanaPrincipal.resx">
       <DependentUpon>ventanaPrincipal.cs</DependentUpon>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\Controller.csproj">
+      <Project>{e301d9e2-e708-429d-87b6-eca5a645ead7}</Project>
+      <Name>Controller</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{223c2494-511b-4d21-8fce-53c39d99a6db}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

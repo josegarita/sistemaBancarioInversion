@@ -12,3 +12,8 @@ C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSI�
 C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\obj\Debug\GUI.csproj.GenerateResource.Cache
 C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\obj\Debug\ClassLibrary2.dll
 C:\Users\jonaranjo\OneDrive\TEC\DISEÑO DE SOFTWARE\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\obj\Debug\GUI.ventanaResultado.resources
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\bin\Debug\Model.dll
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\Ativ Book 4\OneDrive\PROYECTO SISTEMA DE INVERSIÓN BANCARIA\GitHub\sistemaBancario\ClassLibrary2\bin\Debug\Model.pdb

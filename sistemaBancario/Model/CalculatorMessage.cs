@@ -31,5 +31,10 @@ namespace Model
             set;
             get;
         }
+        public float percentegeApplied 
+        {
+            set;
+            get;
+        }
     }
 }

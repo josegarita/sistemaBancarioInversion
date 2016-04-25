@@ -56,6 +56,7 @@ namespace Model
                 result.InterestEarned = product.InterestEarned();
                 result.FinalBalance = product.getFinalBalance();
                 result.TaxApplied = product.getTax();
+                result.percentegeApplied = product.getAnnualInterest();
 
             }
             else

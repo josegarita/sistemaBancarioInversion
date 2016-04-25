@@ -52,7 +52,7 @@ namespace sistemaBancario
             vent.ShowDialog();
 
             
-            //System.Net.Mime.MediaTypeNames.Application.run(new ventanaPrincipal);
+            
 
             /*
             /// <summary>

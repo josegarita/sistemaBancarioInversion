@@ -13,20 +13,20 @@ namespace sistemaBancario
     {
         static void Main(string[] args)
         {
-
+            /*
             /// <summary>
             /// Simple CSV export
             /// Example:
             CsvExport myExport = new CsvExport();
             ///
             myExport.AddRow();
-            myExport["Region"] = "Heredia, CR";
-            myExport["Sales"] = 100000;
+            myExport["Nombre"] = "Jose";
+            myExport["CuentaMonto"] = 100000;
             myExport["Date Opened"] = new DateTime(2003, 12, 31);
             ///
             myExport.AddRow();
-            myExport["Region"] = "Barva \"in\" Heredia";
-            myExport["Sales"] = 50000;
+            myExport["Nombre"] = "Mario";
+            myExport["CuentaMonto"] = 50000;
             myExport["Date Opened"] = new DateTime(2005, 1, 1, 9, 30, 0);
             ///
             /// Then you can do any of the following three output options:
@@ -36,6 +36,7 @@ namespace sistemaBancario
             /// </summary>
             /// 
             Console.WriteLine("Listo");
+              /**/
             Console.ReadKey();
         }
     }

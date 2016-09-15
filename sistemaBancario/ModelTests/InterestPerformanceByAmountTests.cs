@@ -8,6 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using Model.InterestsUtils;
+
 
 
 namespace Model.Tests
@@ -33,8 +35,11 @@ namespace Model.Tests
             AbstractInterestPerformance performance = new InterestPerformanceByAmount(new CalculateInterestByAmountStrategy());
 
             //Para cuentas corrientes
-            Assert.AreNotEqual(performance.calculateBalance(1000000, 31), 1001722.22);
-            Assert.AreNotEqual(performance.calculateBalance(2650000, 21), 2653864.58);
+            InterestTable tabla = new TableCertificadoDeDeposito();
+            performance.setInterestTable(tabla);
+            Decimal ret = performance.calculateBalance(5,5);
+            //Assert.AreNotEqual(performance.calculateBalance(1000000, 31), 1001722.22);
+           // Assert.AreNotEqual(performance.calculateBalance(2650000, 21), 2653864.58);
 
                         
         }

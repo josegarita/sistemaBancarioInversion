@@ -16,7 +16,6 @@ namespace Model
 
         private AbstractProductServiceFactory _factory;
         private string _productType;
-        private InterestTable _hola;
 
         public InterestCalculator(string productType)
         {
@@ -36,8 +35,6 @@ namespace Model
             ServiceVerifier verifier = _factory.createVerify();
 
             InterestTable interestTable = InterestTableFactory.GetInterestTableFor(_productType);
-
-            _hola = interestTable;
 
             
 
